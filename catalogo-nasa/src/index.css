@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://cdn.eso.org/images/large/eso1006a.jpg");
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+#card-container {
+  width: 32rem;
+}
+#accordionFlushExample {
+  width: 31rem;
+}
+#navbar {
+  box-shadow: rgba(0, 0, 0, 0.6) 0px 25px 20px -20px;
+}
